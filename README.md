@@ -1,31 +1,18 @@
-### Hi there 👋
-name: Waka Readme
+<h2 align="center">👋 Hello! I'm Hannani.</h2>
+<p align="center">
+  <a href="https://hannani.herokuapp.com/">Blog</a> •
+  <a href="https://twitter.com/Mohamed_Hanani4">Twitter</a>
+</p>
 
-on:
-  schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
 
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      
-<!--
-**SIMOHANNANI/SIMOHANNANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a chatApp
+- 🌱 I’m currently learning ML,DL,Computer vision [OpenCV]
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with Flutter/Dart
+<!--
+- 💬 Ask me about Python/
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
