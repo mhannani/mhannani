@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Hannani.</h2>
 <p align="center">
-  <a href="https://hannani.herokuapp.com/">Blog</a> •
-  <a href="https://twitter.com/Mohamed_Hanani4">Twitter</a>
+  <a href="https://hannani.herokuapp.com/">Blog</a> ••
+  <a href="https://twitter.com/Mohamed_Hanani4">Twitter</a> ••
   <a href="https://stackoverflow.com/users/13652942/hannani">StackOverflow</a>
 </p>
 
