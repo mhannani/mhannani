@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on a chatApp
-- 🌱 I’m currently learning ML,DL,Computer vision [OpenCV]
+- 🌱 I’m currently learning ML,DL,and computer vision [OpenCV]
 - 🤔 I’m looking for help with Flutter/Dart
 <!--
 - 💬 Ask me about Python/
