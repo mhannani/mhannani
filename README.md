@@ -1,4 +1,8 @@
-<h2 align="center">👋 Hello! I'm Hannani.</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hello I'm Hannani.
+</h2>
+
 <p align="center">
   <a href="https://mhannani.codes/">Blog</a> ••
   <a href="https://twitter.com/Mohamed_Hanani4">Twitter</a> ••
