@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-  Hello I'm Hannani.
+  Hello, I'm Hannani.
 </h2>
 
 <p align="center">
