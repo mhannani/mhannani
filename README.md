@@ -3,6 +3,8 @@
   Hello, I'm Hannani.
 </h2>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mhannani alt=mhannani/></p>
+
 <p align="center">
   <a href="https://mhannani.codes/">Blog</a> ••
   <a href="https://twitter.com/Mohamed_Hanani4">Twitter</a> ••
