@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://mhannani.codes/">Blog</a> ••
   <a href="https://twitter.com/Mohamed_Hanani4">Twitter</a> ••
+  <a href="https://www.linkedin.com/in/mhannani/">LinkedIn</a> ••
   <a href="https://stackoverflow.com/users/13652942/hannani">StackOverflow</a>
 </p>
 
