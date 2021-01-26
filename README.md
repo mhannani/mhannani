@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on a chatApp
-- 🌱 I’m currently learning ML,DL,and computer vision [OpenCV]
+- 🌱 I’m currently learning ML,DL,and computer vision [OpenCV], ReactNative, and React
 - 🤔 I’m looking for help with Flutter/Dart, R
 - 💬 Ask me about Python/PHP/JavaScript/Markdown/C ...
 <!--
