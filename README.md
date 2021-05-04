@@ -6,7 +6,7 @@
 - 🌱 Enthusiast in Artificial Intelligence and robotics
 - 💬 Ask me anything about AI
 - 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
-- 📫 How to reach me: mohamed.hanani2019@gmail.com
+- 📫 How to reach me: mohamed.hanani2019@gmail.com https://mhannani.codes
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
@@ -18,10 +18,10 @@
 - 🌌 ☄️ 🔭 Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
   <img align="center" src="connect.png?raw=true"/>
 
-- <a href="https://www.instagram.com/m__hannani/"><img src="https://img.shields.io/badge/instagram%20@x_n3ur0n-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/Mohamed.Hannanii/"><img src="https://img.shields.io/badge/facebook%20@mohamedchibani420-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://twitter.com/Mohamed_Hanani4"><img src="https://img.shields.io/badge/twitter%20@B1ack_x_Hack3r-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://www.linkedin.com/in/hannani/"><img height="30px" src="https://img.shields.io/badge/My%20Linkedin:%20mohamedchibani-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.instagram.com/m__hannani/"><img src="https://img.shields.io/badge/instagram%20@m__hannani?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.facebook.com/Mohamed.Hannanii/"><img src="https://img.shields.io/badge/facebook%20@Mohamed.Hannanii?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://twitter.com/Mohamed_Hanani4"><img src="https://img.shields.io/badge/twitter%20@Mohamed_Hanani4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/hannani/"><img height="30px" src="https://img.shields.io/badge/My%20Linkedin:%20hannani?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img align="center" src="skills.png?raw=true">
 
