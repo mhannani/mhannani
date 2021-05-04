@@ -48,6 +48,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mhannani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
 
 
+<img align="center" src="git.png?raw=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhannani&theme=radical&title_color=8E2DE2&text_color=fff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhannani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
+
+
 <p align="center">
 <img src=https://komarev.com/ghpvc/?username=mhannani alt=mhannani/>
 </p>
