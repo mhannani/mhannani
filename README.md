@@ -43,10 +43,6 @@
 ![TENSORFLOW](https://img.shields.io/badge/-TENSORFLOW-grey?style=for-the-badge&logo=TENSORFLOW&logoColor=white&labelColor=8E2DE2)
 ![KERAS](https://img.shields.io/badge/-KERAS-grey?style=for-the-badge&logo=KERAS&logoColor=white&labelColor=8E2DE2)
 
-<img align="center" src="git.png?raw=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mhannani&theme=radical&title_color=8E2DE2&text_color=fff"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mhannani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
-
 
 <img align="center" src="git.png?raw=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhannani&theme=radical&&count_private=true&title_color=8E2DE2&text_color=fff"/>
