@@ -48,8 +48,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mhannani&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
 
 
+
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mhannani" id="counter">
+<img src=https://komarev.com/ghpvc/?username=mhannani alt=mhannani/>
 </p>
+
 
 
