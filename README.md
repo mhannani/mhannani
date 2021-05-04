@@ -6,7 +6,8 @@
 - 🌱 Enthusiast in Artificial Intelligence and robotics
 - 💬 Ask me anything about AI
 - 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
-- 📫 How to reach me: mohamed.hanani2019@gmail.com https://mhannani.codes
+- 📫 How to reach me: mohamed.hanani2019@gmail.com
+- 🌍 https://mhannani.codes/
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
