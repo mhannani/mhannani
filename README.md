@@ -7,7 +7,7 @@
 - 💬 Ask me anything about AI
 - 📫 mohamed.hanani2019@gmail.com
 - 🌍 https://mhannani.codes/
-[comment]: <> (- 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress)
+- 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
 
 
 
