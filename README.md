@@ -5,9 +5,9 @@
 - 🔭 Learning and Developing Machine Learning based projects in Python
 - 🌱 Enthusiast in Artificial Intelligence and robotics
 - 💬 Ask me anything about AI
+- 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 mohamed.hanani2019@gmail.com
 - 🌍 https://mhannani.codes/
-- 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
 
 
 
