@@ -7,7 +7,7 @@
 - 💬 Ask me anything about AI
 - 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 Email: mohamed.hanani2019@gmail.com
-- 🌍 Portfolio: https://mhannani.codes/
+- 🌍 Portfolio: https://mhannani.com/
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
