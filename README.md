@@ -6,8 +6,8 @@
 - 🌱 Enthusiast in Artificial Intelligence and robotics
 - 💬 Ask me anything about AI
 - 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
-- 📫 Email: me@mhannani.com
-- 🌍 Portfolio: https://mhannani.com/
+- 📫 Email: me@mhannani.me
+- 🌍 Portfolio: https://mhannani.me/
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
