@@ -45,6 +45,93 @@
 ![TENSORFLOW](https://img.shields.io/badge/-TENSORFLOW-grey?style=for-the-badge&logo=TENSORFLOW&logoColor=white&labelColor=8E2DE2)
 ![KERAS](https://img.shields.io/badge/-KERAS-grey?style=for-the-badge&logo=KERAS&logoColor=white&labelColor=8E2DE2)
 
+"Programming": [
+    "https://img.shields.io/badge/Programming-Python-blue",
+    "https://img.shields.io/badge/Programming-R-blue",
+    "https://img.shields.io/badge/Programming-SQL-blue",
+    "https://img.shields.io/badge/Programming-Bash-blue",
+    "https://img.shields.io/badge/Programming-Java-blue"
+  ],
+  "Deep Learning Frameworks": [
+    "https://img.shields.io/badge/Deep_Learning_Frameworks-Keras-blue",
+    "https://img.shields.io/badge/Deep_Learning_Frameworks-Tensorflow-blue",
+    "https://img.shields.io/badge/Deep_Learning_Frameworks-PyTorch-blue"
+  ],
+  "Frameworks": [
+    "https://img.shields.io/badge/Frameworks-Django-blue",
+    "https://img.shields.io/badge/Frameworks-Flask-blue",
+    "https://img.shields.io/badge/Frameworks-Dash-blue",
+    "https://img.shields.io/badge/Frameworks-Plotly-blue",
+    "https://img.shields.io/badge/Frameworks-Shiny-blue",
+    "https://img.shields.io/badge/Frameworks-FastAPI-blue",
+    "https://img.shields.io/badge/Frameworks-Streamlit-blue"
+  ],
+  "Libraries": [
+    "https://img.shields.io/badge/Libraries-Pandas-blue",
+    "https://img.shields.io/badge/Libraries-Scikit--learn-blue",
+    "https://img.shields.io/badge/Libraries-NumPy-blue",
+    "https://img.shields.io/badge/Libraries-Matplotlib-blue",
+    "https://img.shields.io/badge/Libraries-SciPy-blue",
+    "https://img.shields.io/badge/Libraries-Seaborn-blue"
+  ],
+  "Data Analytics Tools": [
+    "https://img.shields.io/badge/Data_Analytics_Tools-Power_BI-blue",
+    "https://img.shields.io/badge/Data_Analytics_Tools-Tableau-blue",
+    "https://img.shields.io/badge/Data_Analytics_Tools-Grafana-blue",
+    "https://img.shields.io/badge/Data_Analytics_Tools-Pentaho-blue",
+    "https://img.shields.io/badge/Data_Analytics_Tools-Microsoft_Excel-blue",
+    "https://img.shields.io/badge/Data_Analytics_Tools-Talend-blue"
+  ],
+  "Developer Tools": [
+    "https://img.shields.io/badge/Developer_Tools-Git-blue",
+    "https://img.shields.io/badge/Developer_Tools-Docker-blue",
+    "https://img.shields.io/badge/Developer_Tools-GitLab-blue",
+    "https://img.shields.io/badge/Developer_Tools-Jenkins-blue",
+    "https://img.shields.io/badge/Developer_Tools-GitHub-blue"
+  ],
+  "Cloud": [
+    "https://img.shields.io/badge/Cloud-AWS-blue",
+    "https://img.shields.io/badge/Cloud-GCP-blue",
+    "https://img.shields.io/badge/Cloud-Azure-blue"
+  ],
+  "Infrastructure Management": [
+    "https://img.shields.io/badge/Infrastructure_Management-Terraform-blue",
+    "https://img.shields.io/badge/Infrastructure_Management-Ansible-blue"
+  ],
+  "Data Integration": [
+    "https://img.shields.io/badge/Data_Integration-Informatica-blue"
+  ],
+  "Cloud Data Warehousing": [
+    "https://img.shields.io/badge/Cloud_Data_Warehousing-Snowflake-blue"
+  ],
+  "Development Environment": [
+    "https://img.shields.io/badge/Development_Environment-Anaconda-blue",
+    "https://img.shields.io/badge/Development_Environment-JupyterLab-blue"
+  ],
+  "Big Data Technologies": [
+    "https://img.shields.io/badge/Big_Data_Technologies-Apache_Spark-blue",
+    "https://img.shields.io/badge/Big_Data_Technologies-Hadoop-blue",
+    "https://img.shields.io/badge/Big_Data_Technologies-Apache_Kafka-blue",
+    "https://img.shields.io/badge/Big_Data_Technologies-DataBricks-blue"
+  ],
+  "Math": [
+    "https://img.shields.io/badge/Math-Statistics-blue",
+    "https://img.shields.io/badge/Math-Probability-blue",
+    "https://img.shields.io/badge/Math-Linear_algebra-blue"
+  ],
+  "Misc": [
+    "https://img.shields.io/badge/Misc-Data_Mining-blue",
+    "https://img.shields.io/badge/Misc-Linux-blue",
+    "https://img.shields.io/badge/Misc-LaTeX-blue"
+  ],
+  "Databases": [
+    "https://img.shields.io/badge/Databases-PostgreSQL-blue",
+    "https://img.shields.io/badge/Databases-MongoDB-blue",
+    "https://img.shields.io/badge/Databases-MySQL-blue"
+  ],
+  "Project Management Tools": [
+    "https://img.shields.io/badge/Project_Management_Tools-JIRA-blue"
+  ]
 
 <img align="center" src="git.png?raw=true"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhannani&theme=radical&&count_private=true&title_color=8E2DE2&text_color=fff"/>
