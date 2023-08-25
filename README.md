@@ -8,6 +8,7 @@
 - 🍵 I believe a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 Email: mohamed_hannani@yahoo.com
 - 🌍 Portfolio: https://mhannani.me/
+- 🌍 Resume: https://resume.mhannani.me/
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
