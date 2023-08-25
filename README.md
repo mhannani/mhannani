@@ -1,29 +1,28 @@
 <img align="left" alt="GIF" src="gif3.gif" width="500"/>
 <img align="center" src="about.png?raw=true"/>
 
-- 🎓 Studying Computer Science, computer programming and Mathematics
+- 🎓 Ph.D. Researcher, Machine Learning Engineer
 - 🔭 Learning and Developing Machine Learning based projects in Python
-- 🌱 Enthusiast in Artificial Intelligence and robotics
-- 💬 Ask me anything about AI
-- 🍵 I believe, a perfect cup of coffee can be the ultimate solution for any stress
-- 📫 Email: me@mhannani.me
+- 🌱 Enthusiast in Artificial Intelligence and Large Language models
+- 💬 Ask me anything about AI, ML and LLM.
+- 🍵 I believe a perfect cup of coffee can be the ultimate solution for any stress
+- 📫 Email: mohamed_hannani@yahoo.com
 - 🌍 Portfolio: https://mhannani.me/
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
 
 ##
-### Things that I execute in free time ⚡
-- ⭐️ While Coding, Listening Music and developing useful code.
+### Things that I execute in my free time ⚡
+- ⭐️ While Coding, Listening to Music and developing helpful code.
 - :closed_lock_with_key: Bug Bounty Hunting.
 - :computer: Just loved to Explore new Tech Stacks.💻
-- 🌌 ☄️ 🔭 Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
+- 🌌 ☄️ 🔭 Learning Physics and getting knowledge about Space, Cosmos, and Astronomy is My Night Job.
   <img align="center" src="connect.png?raw=true"/>
 
 - <a href="https://www.instagram.com/m__hannani/">
   <img src="https://img.shields.io/badge/instagram%20@m__hannani-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-- <a href="https://www.facebook.com/Mohamed.Hannanii/"><img src="https://img.shields.io/badge/facebook%20@Mohamed.Hannanii-DD2476?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://twitter.com/Mohamed_Hanani4"><img src="https://img.shields.io/badge/twitter%20@Mohamed_Hanani4-DD2476?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/mhannani/"><img height="30px" src="https://img.shields.io/badge/My%20Linkedin:%20hannani-DD2476?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
